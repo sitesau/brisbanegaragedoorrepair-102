@@ -1,0 +1,19 @@
+{
+  "wheel_id": 163,
+  "structure": "umbrella",
+  "slug": "brisbanegaragedoorrepair-102",
+  "project": "garage-door-repairs-brisbane-costs-c3e5253c77795b7bfd9180950f5b",
+  "parent_t1_ref": "brisbanegaragedoorrepair-150",
+  "node_role": "feeder",
+  "money_target": "brisbanegaragedoorrepair.au",
+  "primary_kw": "garage door repairs brisbane costs",
+  "intended_url": "https://sites-e470-2.web.app/garage-door-repairs-brisbane-costs-c3e5253c77795b7bfd9180950f5b/",
+  "writeback_nonce": "95d8cf161c6d7f99",
+  "links": [
+    {
+      "target_url": "https://garage-door-repairs-brisbane-a51b1869c6e066cbf1a25ca9fbca2a5.surge.sh/",
+      "anchor": "garage door repairs brisbane",
+      "rel": "follow"
+    }
+  ]
+}
